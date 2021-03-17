@@ -1,0 +1,43 @@
+# Neutral Evolution in One- and Two-Locus Systems
+
+## The Wright-Fisher Model
+
+Its roots trace to Fisher (1922) and Wright (1931).
+
+Assume:
+
+- a diploid population with a fixed number of monoecious (hermaphroditic) adults
+- random mating (self-fertilization included)
+- discrete generations
+
+Consider a locus with two alleles B and b, without selection advantage
+
+## Loss of heterozygosity by random genetic drift
+
+## Probabilities and times to fixation or loss
+
+## The age of a neutral allele
+
+## Allele-frequency divergence among populations
+
+## Buri's experiment
+
+## Higher-order allele-frequency moments
+
+## Linkage disequilibrium
+
+## Mutation-drift equilibrium
+
+## The detailed structure of neutral variation
+
+### The infinite-alleles model and the associated allele-frequency spectrum
+
+### The infinite-sites model and the associated site-frequency spectrum
+
+## The genealogical structure of a population
+
+## Mutation-migration-drift equilibrium
+
+### Quantifying population structure: Fst
+
+### Mutation-migration-drift equilirium values of Fst
