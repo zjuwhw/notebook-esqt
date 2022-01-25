@@ -1,18 +1,45 @@
 # Neutral Evolution in One- and Two-Locus Systems
 
+Nature selection, neural models
+
+genetic drift: random fluctuations in allele frequencies that necessarily result from sampling finite numbers of gametes in each generation. Sample size, time scale.
+
 ## The Wright-Fisher Model
+
+Single finite populations of constant size within which mating is random; other Variant models: separate sexes; family size; generation overlap
 
 Its roots trace to Fisher (1922) and Wright (1931).
 
 Assume:
 
-- a diploid population with a fixed number of monoecious (hermaphroditic) adults
+- a diploid population with a fixed number (N) of monoecious (hermaphroditic, 雌雄同体) adults
 - random mating (self-fertilization included)
 - discrete generations
 
-Consider a locus with two alleles B and b, without selection advantage
+Consider a locus with two alleles B and b, without selection advantage:
+
+the probability ($P_{ij}$) that i copies of allele B in generation t and j copies of allele B in generation t+1 follows a binomial distribution:
+
+$$P_{ij} = \begin{pmatrix}2N \\j \end{pmatrix}(i/2N)^j[1-(i/2N)]^{2N-j}$$
+
+Letting $\boldsymbol{P} \in \boldsymbol{R}^{(2N+1)*(2N+1)}$ that 
+
+$$\boldsymbol{x}(t+1)=\boldsymbol{x}(t)\boldsymbol{P}$$
+, where $\boldsymbol{x}(t) \in \boldsymbol{R}^{1*(2N+1)}$, the probabilities that the allele is present in i=0,1,...,2N copies in generation t
+
+$$x(t) = x(0)P^t$$
+
+Markov chain
+
+Absorbing states: lost or fixed
+
+transition-matrix; diffusion approximation
+
+Moran model
 
 ## Loss of heterozygosity by random genetic drift
+
+
 
 ## Probabilities and times to fixation or loss
 

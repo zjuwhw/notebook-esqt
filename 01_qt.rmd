@@ -1,1 +1,70 @@
 # Changes in Quantitative Traits Over Time
+
+- quantitative traits
+- variation: standinging within a population or divergence between species
+- breed improvement
+
+- quantitative genetics: 
+- population genetics, statistical theory, mathematicl modeling, genetics, and genomics
+- long-term laboratory, shorter-term selection, human biology, wild populations
+- mating system: inbred vs outbred, asexual species
+- haploids, diploids, and polyploids
+
+## A brief history of the study of the evolution of quantitative traits
+
+### the fusion of population and quantitative genetics
+
+- biometricians vs Mendelians; rediscovery of Mendel in the early 1900s
+- Fleeming Jenkin: "blending inheritance", segregating variance
+- Fisher 1918: expected resemblance between relatives; (additive-) genetic varaince components
+- Sewall Wright and J. B. S. Haldane
+- single-locus vs multiple-locus models of selection; Bulmer
+- infinitesimal model
+- Kimura: infinite-alleles model; diffusion approximations; neutral theory of molecular evolution
+- Kingman: coalescent
+
+### the ongoing fusion of molecular and quantitative genetics
+
+- the growing number of molecular-based markers; QTL mapping
+- linkage analysis; association mapping
+- missing heritability
+- Hill-Robertson effect
+
+### The common thread between breeding and evolution in natural populations
+
+- artificial selection (breeders) and nature evolution (evolutionary biologists)
+- Jay Lush: breeder's equation, $R=h^2S$; genetic correlation
+- Lande: multivariate extension of the breeder's equation
+- Alan Robertson: slection response as the covariance between the breeding value and relative fitness, $R=\sigma(A_z,w)$
+- Fisher's fundamental theorem of natural selection; Robertson's secondary theorem
+- Price: a general covariance-based expression
+- Henderson: Best linear unbiased predictor (BLUP); Linear mixed model (LMM); Restricted maximum likelihood (REML)
+- marker-assisted selection (MAS); a few well-chosen markers (Lande and Thompson); genomic selection (Meuwissen)
+
+### Detecting selection in natural populations
+
+## The theoretical foundations of evolutionary biology
+
+### The completeness of evolutionary theory
+
+### Nonadaptive hypotheses and our understanding of evolution
+
+## Overview and pathways through this volume
+
+### Evolution at one and two loci
+
+### Drift and quantitative traits
+
+### Short-term response on a single character
+
+### Selection in Structured populations
+
+### Population-genetic models of trait response
+
+### Measuring selection on traits
+
+### Appendices
+
+### Volume 3
+
+### Notation
